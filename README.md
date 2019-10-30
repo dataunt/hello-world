@@ -1,3 +1,3 @@
 # hello-world
 programming is fun.
-I'm a theoretical physicist.
+i'm a theoretical physicist.
