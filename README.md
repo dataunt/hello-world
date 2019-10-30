@@ -1,2 +1,3 @@
 # hello-world
-programming is fun.
+Programming is fun.
+I'm a theoretical physicist.
